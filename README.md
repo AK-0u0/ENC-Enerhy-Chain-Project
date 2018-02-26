@@ -1,7 +1,7 @@
 # Block-Chain-Code#ifndef AES_HELPER_H
 #define AES_HELPER_H
 
-/* $Id: aes_helper.c 220 2010-06-09 09:21:50Z tp $ */
+
 /*
  * AES tables. This file is not meant to be compiled by itself; it
  * is included by some hash function implementations. It contains
